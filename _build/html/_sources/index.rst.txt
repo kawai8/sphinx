@@ -8,7 +8,8 @@ Welcome to python note's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   List/index
 
 
 
