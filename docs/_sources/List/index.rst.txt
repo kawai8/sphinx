@@ -15,12 +15,12 @@ List
   >>> print(type(x))
   <class 'list'>
 
+
 .. code-block:: python
 
   >>> #連結
   >>> [1, 2, 3, 4] + [5, 6, 7, 8]
   [1, 2, 3, 4, 5, 6, 7, 8]
-
 
 
 .. code-block:: python
@@ -38,8 +38,6 @@ List
 
 
 
-| 
-
 **Method**
 
 .. toctree::
@@ -47,6 +45,15 @@ List
 
    list.append(x)
    list.extend(L)
+   list.insert(i, x)
+   list.remove(x)
+   list.pop([i])
+   list.clear()
+   list.index(x[, start[, end]])
+   list.count(x)
+   list.sort(key=None, reverse=False)
+   list.reverse()
+   list.copy()
 
 
 | 
